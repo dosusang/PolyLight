@@ -1,0 +1,13 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/Library
+/Logs
+/ouputAPK
+/Temp
+/test_BackUpThisFolder_ButDontShipItWithYourGame
+/test_BurstDebugInformation_DoNotShip/tempburstlibs/arm64-v8a
+/.vs
+/UserSettings/Layouts/default-2021.dwlt
+/Build/
